@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Generated Image September 26, 2025 - 6_31PM.png" alt="Logo/Banner Provisório do Pixel Tropical" style="width:100%; max-width:600px; height:auto;"/>
+  <img src="Capa podcast Pixel Tropical.png" alt="Logo/Banner Provisório do Pixel Tropical" style="width:100%; max-width:600px; height:auto;"/>
   <h1>🌴 Pixel Tropical 🎙️</h1>
   <p>Design, IA Generativa e uma pitada de brasilidade.</p>
 </div>
@@ -12,7 +12,7 @@ Este projeto, **Pixel Tropical**, é o resultado de um desafio prático proposto
 
 O tema central do podcast é o **Design de Produtos Digitais (UX/UI)**, trazendo uma abordagem leve, entusiasta e com um toque de brasilidade, como sugerido pelo nome.
 
-Você pode ouvir o epísódio <a href="Design Tropical Podcast.mp3">Clicando aqui</a>
+<p>Você pode ouvir o epísódio <a href="Pixel Tropical Podcast.mp3">Clicando aqui</a></p>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
