@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/G4YnQ6j.png" alt="Logo/Banner Provisório do Pixel Tropical" style="width:100%; max-width:600px; height:auto;"/>
+  <img src="Generated Image September 26, 2025 - 6_31PM.png" alt="Logo/Banner Provisório do Pixel Tropical" style="width:100%; max-width:600px; height:auto;"/>
   <h1>🌴 Pixel Tropical 🎙️</h1>
   <p>Design, IA Generativa e uma pitada de brasilidade.</p>
 </div>
