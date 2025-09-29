@@ -16,7 +16,6 @@ O tema central do podcast é o **Design de Produtos Digitais (UX/UI)**, trazendo
 
 ## 🛠️ Tecnologias Utilizadas
 
-Abaixo estão as ferramentas e tecnologias essenciais que permitiram a criação do podcast:
 
 * **Gemini (Google):** Utilizado para a **concepção do nome** e a **geração do roteiro** do podcast, garantindo a temática e o tom de voz desejados.
 * **Google AI Studio:** Empregado para gerar a **voz** do apresentador e a **imagem de capa** do podcast.
@@ -26,12 +25,11 @@ Abaixo estão as ferramentas e tecnologias essenciais que permitiram a criação
 
 ## 📝 Prompts de Geração
 
-A qualidade do resultado final depende diretamente da precisão dos prompts. Seguem abaixo os comandos detalhados utilizados para guiar as IAs Generativas em cada etapa do projeto:
 
 ### 1. Prompt para Gerar o Nome do Podcast
 
-Tarefa: Sugerir 5 nomes para um podcast
-Contexto: É um podcast sobre Design, com foco voltado para o design de produtos digitais, o título deve ser high tech e curto, que tenha uma temática envolta de brasilidade.
+<b>Tarefa:</b> Sugerir 5 nomes para um podcast.<br/>
+<b>Contexto:</b> É um podcast sobre Design, com foco voltado para o design de produtos digitais, o título deve ser high tech e curto, que tenha uma temática envolta de brasilidade.
 
 ---
 
@@ -47,10 +45,10 @@ O formato do roteiro deve ter:
 
 {Regras}
 
-No bloco [Introdução] Substitua por uma apresentação leve e descontraída sobre o tema do episódio. O episódio de hoje se chama “3 livros que todo UX designer deve ler”
-No bloco [Conteúdo] Substitua por uma apresentação resumida dos livros ‘Design do dia a dia’ de Donald Norman, ‘Design Thinking’ de Tim Brown e ‘Não me faça pensar’ de Steve Krug.
+No bloco [Introdução] Substitua por uma apresentação leve e descontraída sobre o tema do episódio. O episódio de hoje se chama “3 livros que todo UX designer deve ler”<br/><br/>
+No bloco [Conteúdo] Substitua por uma apresentação resumida dos livros ‘Design do dia a dia’ de Donald Norman, ‘Design Thinking’ de Tim Brown e ‘Não me faça pensar’ de Steve Krug.<br/><br/>
 No bloco [Conclusão] Substitua por um breve resumo do que foi o episódio finalizando com uma despedida bem-humorada convidando os ouvintes a escutarem os episódios anteriores e o próximo.
-O podcast deve ser curto
+O podcast deve ser curto<br/><br/>
 {Regras negativas}
 
 Não ultrapasse 5 minutos de programa
@@ -61,8 +59,8 @@ Não use muitos termos em inglês
 
 ### 3. Prompt para Gerar a Capa do Podcast
 
-Tarefa: Criar a capa para o podcast Pixel Tropical
-Contexto: O background da capa deve conter padrões de design brasileiro, na frente em destaque uma ilustração de um coqueiro antropomorfizado segurando um microfone. O tamanho da imagem deve ser 1:1
+<b>Tarefa:</b> Criar a capa para o podcast Pixel Tropical<br/>
+<b>Contexto:</b> O background da capa deve conter padrões de design brasileiro, na frente em destaque uma ilustração de um coqueiro antropomorfizado segurando um microfone. O tamanho da imagem deve ser 1:1
 
 ---
 
