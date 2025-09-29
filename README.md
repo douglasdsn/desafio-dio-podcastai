@@ -8,12 +8,12 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto, **Pixel Tropical**, é o resultado de um desafio prático proposto na trilha de conhecimento **"Fundamentos de IA Generativa"** da **UNIVERSIA**. O objetivo foi criar um **podcast completo** – desde o nome e roteiro até a voz e a capa – utilizando majoritariamente **Inteligências Artificiais Generativas**.
+Este projeto, **Pixel Tropical**, é o resultado de um desafio prático proposto na trilha de conhecimento **"Fundamentos de IA Generativa"** da **UNIVERSIA**. O objetivo foi criar um **podcast completo**, desde a escolha do nome, o roteiro, a geração sintética da voz até a capa do projeto. Utilizando majoritariamente **LLM's**.
 
-O tema central do podcast é o **Design de Produtos Digitais (UX/UI)**, trazendo uma abordagem leve, entusiasta e com um toque de brasilidade, como sugerido pelo nome.
+O tema central do podcast é o **Design de Produtos Digitais**, trazendo uma abordagem leve, entusiasta e com um toque de brasilidade, como sugerido pelo nome.
 
-<p>Você pode ouvir o epísódio <a href="Pixel Tropical Podcast.mp3">Clicando aqui</a></p>
----
+<p>Você pode baixar o epísódio <a href="Pixel Tropical Podcast.mp3">Clicando aqui</a></p>
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -22,7 +22,7 @@ O tema central do podcast é o **Design de Produtos Digitais (UX/UI)**, trazendo
 * **Google AI Studio:** Empregado para gerar a **voz** do apresentador e a **imagem de capa** do podcast.
 * **Audacity:** Software de edição de áudio de código aberto, utilizado para os **ajustes finais** e a edição do áudio gerado pela IA.
 
----
+
 
 ## 📝 Prompts de Geração
 
@@ -40,9 +40,9 @@ Você é um roteirista do podcast Pixel Tropical, um podcast voltado para o púb
 
 O formato do roteiro deve ter:
 
-[Introdução]
-[Conteúdo]
-[Conclusão]
+[Introdução]<br/>
+[Conteúdo]<br/>
+[Conclusão]<br/>
 
 {Regras}
 
