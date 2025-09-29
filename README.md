@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto, **Pixel Tropical**, é o resultado de um desafio prático proposto na trilha de conhecimento **"Fundamentos de IA Generativa"** da **UNIVERSIA**. O objetivo foi criar um **podcast completo**, desde a escolha do nome, o roteiro, a geração sintética da voz até a capa do projeto. Utilizando majoritariamente **LLM's**.
+O **Pixel Tropical**, é o resultado de um desafio prático proposto na trilha de conhecimento **"Fundamentos de IA Generativa"** da **UNIVERSIA**. O objetivo foi criar um **podcast completo**, desde a escolha do nome, o roteiro, a geração sintética da voz até a capa do projeto. Utilizando majoritariamente **LLM's**.
 
 O tema central do podcast é o **Design de Produtos Digitais**, trazendo uma abordagem leve, entusiasta e com um toque de brasilidade, como sugerido pelo nome.
 
