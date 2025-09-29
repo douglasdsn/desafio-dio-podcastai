@@ -12,6 +12,7 @@ Este projeto, **Pixel Tropical**, é o resultado de um desafio prático proposto
 
 O tema central do podcast é o **Design de Produtos Digitais (UX/UI)**, trazendo uma abordagem leve, entusiasta e com um toque de brasilidade, como sugerido pelo nome.
 
+Você pode ouvir o epísódio <a href="Design Tropical Podcast.mp3">Clicando aqui</a>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
